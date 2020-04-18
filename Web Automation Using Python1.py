@@ -1,3 +1,10 @@
+'''
+python program to automate task.
+
+login to a site (here oylmoney) and perform some repeated task.
+
+'''
+
 from selenium import webdriver
 
 driver=webdriver.Chrome()
