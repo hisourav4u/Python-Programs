@@ -1,3 +1,4 @@
+'''
 Google Codejam 2020
 Problem 1: Vestigium
 
@@ -57,7 +58,7 @@ In Sample Case #2, all rows and columns have repeated elements. Notice that each
 
 In Sample Case #3, the leftmost and rightmost columns have repeated elements.
 
-
+'''
 
 t=int(input())
 for i in range(t):
