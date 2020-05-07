@@ -1,3 +1,7 @@
+'''
+Code Gladiator 2020
+Open Coding Round - Problem 1
+
 The Powerpuff Girls
 
 Professor Utonium is restless because of the increasing crime in the world. The number of villains and their activities has increased to a great extent. The current trio of Powerpuff Girls is not well to fight the evils of the whole world. Professor has decided to create the maximum number of Powerpuff Girls with the ingredients he has.
@@ -55,7 +59,7 @@ Input
 
 Output
 8
-
+'''
 
 
 def main():
