@@ -53,7 +53,7 @@ while(tt>0):
     password=driver.find_element_by_id("password")
     btn=driver.find_element_by_name("button")
     user.send_keys("hisourav4u")
-    password.send_keys("Weareweare23@")
+    password.send_keys("password")
     btn.click()
     driver.implicitly_wait(5)
     btn=driver.find_element_by_xpath("/html/body/div/div[2]/h2[2]/div/input")
